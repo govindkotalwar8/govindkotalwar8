@@ -46,6 +46,3 @@ I love working with **AWS, Kubernetes, Terraform, CI/CD, and DevOps automation**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=govindkotalwar8&theme=dark&hide_border=false&layout=compact)
 
 ---
-
-### ✨ Visitor Count
-![Visitor Count](https://visitcount.itsvg.in/api?id=govindkotalwar8&icon=0&color=0)
